@@ -1,5 +1,5 @@
-#PYTHON2 CODE
-print 'Hello World!'
+#Marc(TheTrooper)Figueroa
+print 'Code Name TheTrooper'
 
-#PYTHON3 CODE
-# print('Hello World!')
+#Mission 1 Defend your spawn
+#Don't fail or you don't get paid.
