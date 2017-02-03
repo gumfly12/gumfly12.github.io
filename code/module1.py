@@ -1,5 +1,5 @@
 #Marc(TheTrooper)Figueroa
-print 'Code Name TheTrooper'
+print 'hello i am working on js'
 
-#Mission 1 Defend your spawn
-#Don't fail or you don't get paid.
+#I learned a bit about animation
+
